@@ -1,0 +1,13 @@
+**/.settings/
+**/.myeclipse/
+**/.gradle/
+**/target/
+**/.classpath
+**/.project
+**/.idea/
+**/.tomcatplugin
+**/classes/
+**/*.class
+*./
+/*.log
+/*.iml
